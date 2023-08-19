@@ -6,7 +6,6 @@ This repository provides a Docker container that runs an Apache server with PHP 
 
 - [Prerequisites](#prerequisites)
 - [Clone the Project](#clone-the-project)
-- [Update Project and Push](#update-project-and-push)
 - [OpenShift Deployment](#openshift-deployment)
   - [Build Configuration](#create-a-new-build-configuration)
   - [Start a Build](#start-a-new-build)
@@ -31,14 +30,6 @@ This repository provides a Docker container that runs an Apache server with PHP 
 
 ```bash
 git clone https://github.com:tshenolo/apache-php-oracle.git
-```
-
-## Update Project and Push
-
-```bash
-git add .
-git commit -m "add/updated files"
-git push
 ```
 
 ## OpenShift Deployment
