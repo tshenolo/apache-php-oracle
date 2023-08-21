@@ -132,3 +132,10 @@ Open your browser and navigate to:
 - Ensure that the Oracle Instant Client files (`instantclient-basic-linux.x64-19.20.0.0.0dbru.zip` and `instantclient-sdk-linux.x64-19.20.0.0.0dbru.zip`) are present in the same directory as the Dockerfile before building.
 - Adjust port mappings as per your application's requirement.
 - Remember to clean up resources after testing or use to avoid unused deployments and containers.
+
+
+## Thank you for the Support
+- ⭐ Give this repo a ⭐ star ⭐ at the top of the page
+- 🐦 Follow me on twitter [twitter](https://twitter.com/tshenolo)
+- 📺 Subscribe to my [Youtube channel](https://www.youtube.com/@tshenolo?sub_confirmation=1)
+   
